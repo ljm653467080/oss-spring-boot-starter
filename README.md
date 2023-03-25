@@ -33,7 +33,7 @@ COS对接是腾讯云COS，我们何不直接对接AmazonS3实现呢，这样后
    
 
        <dependency>
-           <groupId>com.ljm</groupId>
+           <groupId>com.github.ljm</groupId>
            <artifactId>oss-spring-boot-starter</artifactId>
            <version>${oss.version}</version>
        </dependency>

@@ -1,4 +1,4 @@
-package com.ljm.oss.core;
+package com.github.ljm.oss.core;
 
 import com.amazonaws.services.s3.model.Bucket;
 import com.amazonaws.services.s3.model.S3Object;

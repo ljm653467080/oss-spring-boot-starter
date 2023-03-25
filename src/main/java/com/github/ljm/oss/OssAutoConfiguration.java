@@ -1,4 +1,4 @@
-package com.ljm.oss;
+package com.github.ljm.oss;
 
 import com.amazonaws.ClientConfiguration;
 import com.amazonaws.auth.AWSCredentials;
@@ -8,9 +8,9 @@ import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.client.builder.AwsClientBuilder;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.AmazonS3Client;
-import com.ljm.oss.core.OssProperties;
-import com.ljm.oss.core.OssTemplate;
-import com.ljm.oss.server.OssTemplateImpl;
+import com.github.ljm.oss.core.OssProperties;
+import com.github.ljm.oss.core.OssTemplate;
+import com.github.ljm.oss.server.OssTemplateImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

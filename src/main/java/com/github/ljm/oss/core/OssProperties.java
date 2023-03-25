@@ -1,4 +1,4 @@
-package com.ljm.oss.core;
+package com.github.ljm.oss.core;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

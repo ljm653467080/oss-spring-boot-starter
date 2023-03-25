@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.ljm.oss.OssAutoConfiguration
+  com.github.ljm.oss.OssAutoConfiguration
