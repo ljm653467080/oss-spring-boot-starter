@@ -26,6 +26,7 @@ COS对接是腾讯云COS，我们何不直接对接AmazonS3实现呢，这样后
   4.4 Minio官方说明：https://min.io/docs/minio/container/index.html
 
   ![img_3.png](img_3.png)
+
   
 5. Spring-boot集成本SDK：
 
@@ -33,7 +34,7 @@ COS对接是腾讯云COS，我们何不直接对接AmazonS3实现呢，这样后
    
 
        <dependency>
-           <groupId>com.github.ljm</groupId>
+           <groupId>io.github.ljm</groupId>
            <artifactId>oss-spring-boot-starter</artifactId>
            <version>${oss.version}</version>
        </dependency>

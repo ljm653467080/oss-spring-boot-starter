@@ -1,9 +1,9 @@
-package com.github.ljm.oss.server;
+package io.github.ljm.oss.server;
 
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.*;
 import com.amazonaws.util.IOUtils;
-import com.github.ljm.oss.core.OssTemplate;
+import io.github.ljm.oss.core.OssTemplate;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 
