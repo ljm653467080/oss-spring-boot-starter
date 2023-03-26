@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.github.ljm653467080</groupId>
     <artifactId>oss-spring-boot-starter</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>oss-spring-boot-starter</name>
     <description>oss-spring-boot-starter</description>
     <properties>
